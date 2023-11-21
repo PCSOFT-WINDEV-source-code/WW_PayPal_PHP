@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="104px" height="104px" viewBox="18 18 104 104" enable-background="new 18 18 104 104" xml:space="preserve">
+<g>
+	<g>
+		<g>
+			<g>
+				
+					<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="427.332" y1="-268.228" x2="529.5577" y2="-166.0023" gradientTransform="matrix(1 0 0 -1 -408.96 -146.5996)">
+					<stop  offset="0" style="stop-color:#C9D9DE"/>
+					<stop  offset="1" style="stop-color:#F2F2F2"/>
+				</linearGradient>
+				<path fill="url(#SVGID_1_)" d="M18,18v104h104V18H18z M116.848,116.801H23.152V23.2h93.696V116.801z"/>
+			</g>
+		</g>
+		
+			<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="439.7969" y1="-280.6924" x2="542.0222" y2="-178.467" gradientTransform="matrix(1 0 0 -1 -408.96 -146.5996)">
+			<stop  offset="0" style="stop-color:#C9D9DE"/>
+			<stop  offset="1" style="stop-color:#F2F2F2"/>
+		</linearGradient>
+		<path fill="url(#SVGID_2_)" d="M25.405,114.2V98.925c0,0,11.109-28.925,23.666-28.925c12.557,0,52,44.2,52,44.2L25.405,114.2
+			L25.405,114.2z"/>
+		
+			<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="453.0176" y1="-293.915" x2="555.2444" y2="-191.6883" gradientTransform="matrix(1 0 0 -1 -408.96 -146.5996)">
+			<stop  offset="0" style="stop-color:#C9D9DE"/>
+			<stop  offset="1" style="stop-color:#F2F2F2"/>
+		</linearGradient>
+		<path fill="url(#SVGID_3_)" d="M72.856,81.417c0.368-0.371,32.4,32.783,32.4,32.783h9.016v-11.213
+			c0,0-21.895-28.519-28.253-28.519C79.66,74.469,72.488,81.789,72.856,81.417z"/>
+		<g>
+			
+				<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="426.2344" y1="-267.1318" x2="528.4607" y2="-164.9055" gradientTransform="matrix(1 0 0 -1 -408.96 -146.5996)">
+				<stop  offset="0" style="stop-color:#C9D9DE"/>
+				<stop  offset="1" style="stop-color:#F2F2F2"/>
+			</linearGradient>
+			<ellipse fill="url(#SVGID_4_)" cx="95.92" cy="41.887" rx="13.362" ry="13.487"/>
+		</g>
+	</g>
+</g>
+</svg>

@@ -1,0 +1,176 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WW_PayPal_PHP
+ major_version : 28
+ minor_version : 0
+ type : 4097
+ description : This site uses the PayPal component
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : CAAAAAgAAAC42DAcZeGFnF/i+mnKpCrKHf0DlTEqkKTduGjbVQHakmrH/pwAfNDIbmn+4czLFozNYlmn85X/oXK0qOnXIhWDj6IzxifSfp6PAUnqvU6RETChbjvSIYUkulCuJRy/KsjJlUdI8HX7XfcT1rxyTE5UbaeW9CkuwuC5oCmTMCLNWu1MzceQKPGYpqupfVE4MEERHRiLHyZXYMC8oZc/m4K3/91Q/KSriZxsrsPXVrGC95OKe+7Z308WtCbjdEv8cp+eegCv/PrT8UVe04QjM++Jwe2GPhN/gu/TSK/yjUXQHxOxKKWoAEehOwpTuYb+hfFn/ieIEGny47VYT1Gndsdj1L8Dp9TN6DqM0fpbTTNDiAHxwUkys5iDYgAZ4nFsUXOo8uBRDU5uEqgJRF1YLSkz5Q0Ulxe6mMQau9fVYcWa98x+23D2Cp//8MODWDhGeyP6SZR5IuhXTd3QJ4fWyXNjgDzt+IqSBD8QCP+6+Y0unSN50o8n3IMvuNRFyuHJqbaO2cIfhxy+lCGP/erV46BQ/xpFw9rnrfWQIYc3smCUzlTR36k0Ucb2y6+be4ZPH7XPZHtA/2554stzmk0qQikf6TP9VBjTJY/84PXv89nnwK45NfxCtiQJNJ3tVMrcYuQRu9glfWjXI098w2RI4dSGcrbRIS8Y4BkKG1SyJyJdZDFsfgqxkmA/wllKWv2cf1kqK48yllMvbjmC+ALJXPjfMZ2+GrCvu1GgOJGoYVGY5t6VwpCi+ZpB4Ar4jkw5Cojpm2GLRAeUcRY4GR2r2DU1309uRbYiTlPfkcIMlB4zeP9QsrJ8lk+WmEAj/KuW+DO8EVEIIzm7fnFuxsr+o5ZrS+sWRfdFm2GTsXrXeN0tSpnDgsRonLMkSp9J47ZFVB+VzIbwpxuH0f6lKUf1Kpaaf0+EdXcB1LsoU0L4Tl6KHVD1F8+qhB0DpimffeTkqDovHFfP3F8jIHsBcrBfVzrsSNS6UHg4Lt4h7B5BEfjWnGw+14ZH4AuESm1BP26grfPGGuKiFot3T+uKIMRKF4Sih6zOSJwDVvnjzFquACsUdVaMCwzJtvQqgH4oiQsaoY+r/EsyO+FZhpKn5MlPavIbmTskluyFdu4i0kV6BBQ+kC+vbWOUX0iWP8YfIfpo75R0jTcZ2Na9wKd8PV5v/6+6axYYGll82nTTAZKSMt+517GGZbAwrtriqi10mzPlcXGrBxLPCvQOLJ31j9RNo/CItR72sKRW9YSJLsEUu4KTBWiVPX51hQBH3zYfTO+xgxxz5kR86wU7WNhbMNEcGL7e5O9X/+kQlwM/iHyjGMlbF0xuG3uasABnveIjIHlb/1o81h7J39GNuiF8xOfx8GBpu1e88X02f8fo5af4pSTkWLiqpHlRM++Cbj3yCQf9Xi/lpGgG9Fy03L8JECXpDE6OlffGffYSq+0PUCmUXScHYrRhd3Hj4y/3/+4osxQEc1ttPjQqYgCbrDxP9gssMUJKoYoRKIW8bRNivHoBEBVXLkAfM4G+rmzqLrFaYTU7gWBqxssPC32BU/axwlvwdazEsKlrseMBhIcYMn2JdqMc509QtbYNO0pc2DKCstQebPIQOnhTXjC5Rc4ILwYfZzMnLtG8n5NOePLmWwb1j31rnZW6bRhujE1qyB3UklHYjTjMGL9WfKrgvgFmbWVBvxNP/57NOQCG2Y2xkEcyZ6Lv9kpMhQ2nh5694qjjku/52wGAytuRIbeZrGy9PjS0g/5na0tP7JqOA6HZrB9WeKkWuBqYiwoCxvM9qcZ8407gCGK3OuwkmLh0+1M1rPoJefoyyT0g9OVE3A9vx4YSxzE3UdZxoDtSi9vbMfLjvFkRTqpxnnw48DpM1HFM9+pZGcUd1a/AwDi0aclDyk6bMPX/10k+qVL/mCW5DeJutgPkkRxYBqSz7W93BEkP1HqqbNHsmBy7UCYdCF6ZE2R/
+ configurations :
+  -
+    name : WW_PayPal_PHP
+    internal_properties : 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
+    configuration_id : 840074880070139920
+    type : 2
+    generation_name : WW_PayPal_PHP.wdl
+    version : {}
+    index_page_generation_name : PAGE_Home
+    language : 2
+    64bits : true
+ elements :
+  identifier : 0x4c7e1468001e312e
+  elements :
+   -
+     name : PAGE_Home
+     identifier : 0x4a6f1b8b00001d62
+     internal_properties : CAAAAAgAAACvq4ebKFXdjleFh9woFIObC1hWnpErIhCGQgZVKde/UaMdcCH1C+Je9CCaZi6iXlK6ug==
+     physical_name : .\PAGE_Home.wwh
+     type : 65538
+   -
+     name : Global_procedures_of_WW_PayPal_PHP_Browser
+     identifier : 0x4aae5a7f0000d39b
+     internal_properties : CAAAAAgAAABl4U1RbgsjPIGjofoG+51BEQAYMAGzxqzaXSd0HvKgGOAglQwfIfx40k5IsHBgGIhw8A==
+     physical_name : .\Global_procedures_of_WW_PayPal_PHP_Browser.wwn
+     type : 65539
+   -
+     name : pPayPal
+     identifier : 0x4a673ff400008371
+     internal_properties : CAAAAAgAAACMiuQwD7T8LzYU0ot3TSxQAAMfN/Sebvz6kZM48ACcFOAupXyuUispg785hw/BuS+ZmQ==
+     physical_name : .\pPayPal.wdg
+     type : 7
+   -
+     name : TPLC_BuyNowButton
+     identifier : 0x4a67404a0001d299
+     internal_properties : CAAAAAgAAACOlOY6Cbb+MTQmOH2JcApiCn9ZaVhqAKSa5VB7Ya/l29EtpoucrIH/VcE7hQ3DvzGbmw==
+     physical_name : .\TPLC_BuyNowButton.wwt
+     type : 65543
+   -
+     name : PAGE_ExampleReturnPage
+     identifier : 0x48d8b5f20002c708
+     internal_properties : CAAAAAgAAAACeHquHUri/VBytGmVbRZeHn1lvf64upv6sbecEBAM9MwmqYiQsI2LIR2HcTGvS70HDw==
+     physical_name : .\PAGE_ExampleReturnPage.wwh
+     type : 65538
+   -
+     name : PAGE_SimpleExample
+     identifier : 0x48d8b29400019fd9
+     internal_properties : CAAAAAgAAABfO7drWAUtPoe19yzY2Ud3OwoCKpMlHYXSf532qGiiFuY+u9ZF+9JO5FBKtn5yDoJKyg==
+     physical_name : .\PAGE_SimpleExample.wwh
+     type : 65538
+   -
+     name : PAGE_Example_ReturnCancel
+     identifier : 0x453cc3840002deb5
+     internal_properties : CAAAAAgAAAC2nJ6CIR4WGTweAKWhmwZGal3Z6d7oTCfyp5H64i5mWq4Mi5aEhFnXfbkjnWWbZ1mjow==
+     physical_name : .\PAGE_Example_ReturnCancel.wwh
+     type : 65538
+   -
+     name : PAGE_CustomExample
+     identifier : 0x48d8b66e0003ac38
+     internal_properties : CAAAAAgAAADCuDpuXQoiPZCy9CnV8CbO1otVBRSu/kOa7RCD6ReFkxGN5stQ8M1L4V1HsXFvC/3HTw==
+     physical_name : .\PAGE_CustomExample.wwh
+     type : 65538
+   -
+     name : PAGETPL_Simple
+     identifier : 0x411cfb7200e17387
+     internal_properties : CAAAAAgAAADKQDLW1ZKaRRgKfLFNeZ6uhvX9JZbIggz2Vuuo9CzgwADiTVTYaEXDadXPKennkwXPVw==
+     physical_name : .\PAGETPL_Simple.wwt
+     type : 65541
+   -
+     name : PAGE_Example_ReturnOK
+     identifier : 0x453cc33100019bb5
+     internal_properties : CAAAAAgAAADDvztvXAkhOpOx8yjUv1+HL7IuJhu954HatfecEu6sJJBcVcxZ785K4FxGsnJuCv7GTg==
+     physical_name : .\PAGE_Example_ReturnOK.wwh
+     type : 65538
+  other_elements : []
+  net_assemblies : []
+  uwp_api : []
+  external_components : []
+  internal_components : []
+ common_generation_directory : true
+ wb_skin : 150 iStyle
+ wb_color_palette : Cherry & Light
+ site_type : 1
+ languages :
+  - en-GB
+ wd_style_sheet : .\Component_PayPal_-_Example.sty
+ site_map :
+  roots : []
+  orphans :
+   -
+     name : PAGE_CustomExample
+     parameters : []
+     title : {}
+     description : {}
+   -
+     name : PAGE_ExampleReturnPage
+     parameters : []
+     title : {}
+     description : {}
+   -
+     name : PAGE_Example_ReturnCancel
+     parameters : []
+     title :
+      fr-FR : WW_PayPal - Annulation de paiement
+      en-GB : WW_PayPal - Canceling the payment
+     description :
+      fr-FR : WW_PayPal - Annulation de paiement
+      en-GB : WW_PayPal - Canceling the payment
+   -
+     name : PAGE_Example_ReturnOK
+     parameters : []
+     title : {}
+     description : {}
+   -
+     name : PAGE_Home
+     parameters : []
+     title : {}
+     description : {}
+   -
+     name : PAGE_SimpleExample
+     parameters : []
+     title : {}
+     description : {}
+ url_rewriting :
+  internal_properties : CAAAAAgAAADkPzcUdUUS7wCiun+MCjqYH70RJdzkSv/nRvXZ3ENdikMa6bcHtsAH
+ code_elements :
+  internal_properties : CAAAAAgAAAAtCP535BJoRmWMzdtu9sJueYzsSrcykEApmQB5lsovKm7gv1lBFzeXyrptQv3kp1QZOtOQ+xHqWf1mlzs9jg5+noDQIYudKB8WJT1MtA==
+  type_code : 0
+  p_codes :
+   -
+     code : |1+
+      gsAccount is string 
+     type : 196608
+   -
+     code : |1+
+      
+      gsPaypalAccountForTest is string
+      
+      
+     type : 196620
+   -
+     type : 196621
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : WW_PayPal_PHP
+     identifier : 0x4c7e1468002a3247
+     code_elements :
+      type_code : 159
+      p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+rad :
+ internal_properties : CAAAAAgAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==
